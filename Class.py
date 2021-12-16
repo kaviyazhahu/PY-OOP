@@ -14,7 +14,7 @@ class Office:
         self.salary = salary
 
 
-#Instance
+#Instance 
 
 ob1 = Office("name1",29,"S",1500)
 
