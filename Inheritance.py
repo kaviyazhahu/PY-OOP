@@ -61,3 +61,5 @@ motivate_emp(emp)
 #Inherit,Extend,Override
 #Super().__init()__ 
 #Polymorphism
+
+#https://www.tutorialsteacher.com/python/public-private-protected-modifiers
