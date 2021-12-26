@@ -23,3 +23,5 @@ def add(x):
     return x + 5
 
 result = add(15)
+
+print(result)
